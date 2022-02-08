@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Taxi</string>
+    <string name="map_activity_name">Google Maps</string>
+    <string name="request">Request</string>
+
+    <string name="Taxi">Taxi</string>
+    <string name="Pooling">Pooling</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="do_you_want_to_request_to_this_car">do you want to request to this car?</string>
+    <string name="todo">Todo</string>
+</resources>
